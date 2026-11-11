@@ -1,0 +1,4 @@
+# Your settings and secrets. Never commit.
+kit.env
+.env
+build/
